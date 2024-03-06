@@ -4,7 +4,7 @@ For the project #1 I've used a dataset from https://www.kaggle.com. The original
 
 The goal of the project is to analyze population of patients enrolled for the study of Cardiovascular deseases, evaluating influence of major factors like Cholesterol, age, etc.
 
-Major ccolumns, that have been used in the Project analysis, are listed out below:
+Major columns, that have been used in the Project analysis, are listed out below:
 
 Age: Age of patients
 Sex: Sex of petients where 1 = male, 0 = female
