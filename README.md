@@ -27,3 +27,10 @@ Action Steps:
 8. Plot chart of patients by chest pain types with heart desease conditions and with non-exercise induced angina
 
 Create a slide deck with summary and major findings, draw a conclusion.
+
+Conclusion: 
+1. Males are at higher risk of getting cardiovascular diseases.
+2. Out of 499 patients participated in the study, nearly 83% were males who had Heart disease conditions.
+3. All 1025 patients were selected for the study as they experienced chest pain. Plot on the slide 5 showed that the majority of patients had non-exercise induced angina and over 90% of them had a typical angina, that is one of the symptoms of myocardial ischemia or other cardiovascular diseases. 
+4. Cholesterol level of patients wasn’t an obvious factor to conclude whether it triggers or not heart disease conditions and required further analysis.
+5. Scatter plot visually represented correlation between patient’s age and their cholesterol level. It appears that patients of 60+ age category had a higher rate of cholesterol level, that supposedly led to cardiovascular disease conditions.
